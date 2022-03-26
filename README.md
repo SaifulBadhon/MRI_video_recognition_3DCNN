@@ -4,4 +4,4 @@
 ### In this work I used the data provided by hasibzunair which are MRI data.
 ### Videoes are mainly a array of lots of frames or images.
 ### And frames or images are representable into 2(gray-scale) or  2/3(RGB) dimansional array.
-### So techniqully we can say videoes are nothing but 3 dimensional array where the 3rd dimension is the time.
+### So technically we can say videoes are nothing but 3 dimensional array where the 3rd dimension is the time.
